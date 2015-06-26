@@ -1,7 +1,7 @@
 {
   "name": "quickhyperlink",
   "main": "./lib/quickhyperlink",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Select something, press the shortcut, and this will create an anchor element wrapped around the selected text, with the href attribute set as what was in your clipboard.",
   "keywords": [],
   "activationCommands": {
