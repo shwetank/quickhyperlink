@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "quickhyperlink:convert"
   },
-  "repository": "https://github.com/shwetank/quickhyperlink",
+  "repository": "https://shwetank@github.com/shwetank/quickhyperlink.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
