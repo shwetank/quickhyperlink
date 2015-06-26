@@ -1,10 +1,9 @@
 {
   "name": "quickhyperlink",
   "main": "./lib/quickhyperlink",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Select something, press the shortcut, and this will create an anchor element wrapped around the selected text, with the href attribute set as what was in your clipboard.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "quickhyperlink:convert"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
