@@ -9,11 +9,15 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'quickhyperlink'
+      'label': 'Quick Hyperlink'
       'submenu': [
         {
-          'label': 'Add Hyperlink'
+          'label': 'Add HTML Hyperlink'
           'command': 'quickhyperlink:convert'
+        }
+        {
+          'label': 'Add Markdown Hyperlink'
+          'command': 'quickhyperlink:convertmd'
         }
       ]
     ]

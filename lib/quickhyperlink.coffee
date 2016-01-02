@@ -16,7 +16,7 @@ module.exports =
     editor = atom.workspace.getActiveTextEditor()
     selection = editor.getSelectedText()
     clipboardText = atom.clipboard.read()
-    editor.insertText('<a href=\"'+clipboardText+'\"> '+selection+'</a>')
+    editor.insertText('<a href=\"'+clipboardText+'\">'+selection+'</a>')
 
   convertmd: ->
     editor = atom.workspace.getActiveTextEditor()
