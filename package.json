@@ -1,7 +1,7 @@
 {
   "name": "quickhyperlink",
   "main": "./lib/quickhyperlink",
-  "version": "4.0.5",
+  "version": "4.1.0",
   "description": "Select something, press the shortcut. Quickly add html style or markdown style links to your selected text (the link being whatever is copied in your clipboard)",
   "keywords": [],
   "activationCommands": {
